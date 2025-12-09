@@ -16,8 +16,8 @@ YOLOv8 hanya mengenali lapisan paling atas, sementara objek di bawah tidak
 terdeteksi. Estimasi kedalaman dengan FIS menghasilkan error rata-rata 0,3–0,5
 cm, meningkat hingga 0,8 cm pada pencahayaan redup, tetapi tetap di bawah
 toleransi < 1 cm. Integrasi YOLOv8 dan FIS terbukti efektif untuk estimasi
-koordinat robot serta potensial diterapkan langsung pada sistem kontrol secara real
+koordinat robot serta potensial diterapkan langsung pada sistem kontrol secara real time.
 berikut adalah vidio demonya : https://youtu.be/W3jWEPY7g68
 
-time.![Poster Tugas Akhir_page-0001](https://github.com/user-attachments/assets/18210e23-91e5-4076-8fc1-2cf288603598)
+![Poster Tugas Akhir_page-0001](https://github.com/user-attachments/assets/18210e23-91e5-4076-8fc1-2cf288603598)
 
